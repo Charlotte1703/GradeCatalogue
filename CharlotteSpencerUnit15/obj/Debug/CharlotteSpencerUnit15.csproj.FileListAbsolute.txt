@@ -1,0 +1,27 @@
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe.config
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csprojResolveAssemblyReference.cache
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Form1.resources
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Properties.Resources.resources
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csproj.GenerateResource.Cache
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.pdb
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.exe
+E:\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.pdb
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe.config
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.exe
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.pdb
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.pdb
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csprojResolveAssemblyReference.cache
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Form1.resources
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Properties.Resources.resources
+D:\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csproj.GenerateResource.Cache
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe.config
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.exe
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\bin\Debug\CharlotteSpencerUnit15.pdb
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csprojResolveAssemblyReference.cache
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Form1.resources
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.Properties.Resources.resources
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.csproj.GenerateResource.Cache
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.exe
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CharlotteSpencerUnit15\CharlotteSpencerUnit15\CharlotteSpencerUnit15\obj\Debug\CharlotteSpencerUnit15.pdb
